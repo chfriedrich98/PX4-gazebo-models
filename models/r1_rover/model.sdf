@@ -266,6 +266,7 @@
 				<limit>
 					<lower>-1e+16</lower>
 					<upper>1e+16</upper>
+					<velocity>30.0</velocity>
 				</limit>
 				<dynamics>
 					<spring_reference>0</spring_reference>
@@ -350,6 +351,7 @@
 				<limit>
 					<lower>-1e+16</lower>
 					<upper>1e+16</upper>
+					<velocity>30.0</velocity>
 				</limit>
 				<dynamics>
 					<spring_reference>0</spring_reference>
@@ -434,6 +436,7 @@
 				<limit>
 					<lower>-1e+16</lower>
 					<upper>1e+16</upper>
+					<velocity>30.0</velocity>
 				</limit>
 				<dynamics>
 					<spring_reference>0</spring_reference>
@@ -516,6 +519,7 @@
 				<limit>
 					<lower>-1e+16</lower>
 					<upper>1e+16</upper>
+					<velocity>30.0</velocity>
 				</limit>
 				<dynamics>
 					<spring_reference>0</spring_reference>
